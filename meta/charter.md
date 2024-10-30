@@ -2,40 +2,39 @@
 
 _DRAFT & WORK IN PROGRESS_
 
-## Tagline for VizChitra 2025
+## Tagline
 
 *Taglines*: Options below
   - Explore, Explain, Express
   - See, Show, Tell & Play
   - The Art & Science of Data Visualisation
 
-
-## Themes for VizChitra 2025 
+## Themes |=> 3 Tracks 
   
 1. **Explain & Decide**
-	   - Narrative & Storytelling with Data
-	   - Dashboard & Interaction Design
-	   - Collaboration & Conversational Interfaces
-	   - Aesthetics & Design Principles
-	   - Inclusive & Accessibile Visualisation
+	  - Narrative & Storytelling with Data
+	  - Dashboard & Interaction Design
+	  - Collaboration & Conversational Interfaces
+	  - Aesthetics & Design Principles
+	  - Inclusive & Accessibile Visualisation
 2. **Explore & Make**
-	   - Process and Practices for Visualisation
-	   - AI-driven Visual Exploration (e.g. LLMs)
-	   - Domain-specific Visualisation
-	   - Real-time and Scalable Visualisation
-	   - Data Engineering for Visualisation(?)
+	  - Process and Practices for Visualisation
+	  - AI-driven Visual Exploration (e.g. LLMs)
+	  - Domain-specific Visualisation
+	  - Real-time and Scalable Visualisation
+	  - Data Engineering for Visualisation(?)
 3. **Express & Play**
-	   - *Showcase*: Data Art Experience – Print, Digital, Physical, Installations
-	   - Culture & Context: Indian Aesthetics
-	   - Physicalisation, Sonification
-	   - Beyond 2D: AR & VR Experiences 
+	  - *Showcase*: Data Art Experience – Print, Digital, Physical, Installations
+	  - Culture & Context: Indian Aesthetics
+	  - Physicalisation, Sonification
+	  - Beyond 2D: AR & VR Experiences 
 
 
-## Objective & Vision
+## Objective |=> Vision
 To build a strong community of inter-disciplinary individuals with a shared interest in the practice of data visualisation across India
 
 
-## Mission & Actions
+## Mission |=> 3 Actions
 
 1. **Consider & Curate**: Build a rhythm of curated events and activities to spread the practice of dataviz
     - The Vizchitra Conference (*yearly cadence, Bangalore*)
@@ -50,6 +49,17 @@ To build a strong community of inter-disciplinary individuals with a shared inte
     - Collaborative projects with Industry ?& Academia (?)
     - ...
 
+## Ways of Working |=> 7 Principles
+
+TBD: To list the ways of working for the community
+
+1. **Open & Inclusive**
+2. **Distibuted & Rough Consensus**
+3. ...
+4. ...
+5. ...
+6. ...
+7. ...
 
 ## Audience
 
@@ -59,10 +69,6 @@ Individuals across disciplines e.g. designers, developers, analysts, business an
 - *Functional Roles*: Business Intelligence, Marketing Comms, Public Policy & Planning, Data & Analytics
 - *Domain-Specific Vis Roles*:  Sports Analytics, Healthcare Analytics, Legal, Fintech
 - *Researchers & Academia Roles*: Information Visualisation, Human Computer Interaction, Scientific Communication
-
-
-
-
 
 
 
