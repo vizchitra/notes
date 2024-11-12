@@ -2,6 +2,7 @@
 
 Key Documents and Meeting Notes for the community. Please start here to get familiar.
 
+
 ## Key Documents
 
 - Community 
@@ -9,7 +10,7 @@ Key Documents and Meeting Notes for the community. Please start here to get fami
   - [WhatsApp Core Group]()
 - Meta Documents
   - [Concept Note](https://docs.google.com/document/d/1WiGoeug9QzqTIL2qdVAjhLVU3fieeUVTZ3VB-h_q3Go/edit?usp=sharing) - _Request Access_
-  - [WorkStream Areas](https://docs.google.com/document/d/1xmkKsOxMszsNY2I8hKmLDSRdzZHJ1k-0S5oCNk0syvg/edit?tab=t.0#heading=h.f7veoewxt60t) – roles, responsibilities, time
+  - [WorkStream Overview](meta/workstreams.md)
   - [Charter](meta/charter.md)
 - Workstream Documents
   - [Naming Shortlist](https://docs.google.com/spreadsheets/d/1NI3K1g5J5ORFfH0cxRL8bY5k5i3XLXM1gj4RvK3OiLk/edit?gid=820916346#gid=820916346)
