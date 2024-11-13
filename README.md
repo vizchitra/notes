@@ -2,10 +2,15 @@
 
 Key Documents and Meeting Notes for the community. Please start here to get familiar.
 
+> [!IMPORTANT]  
+> *Bi-Weekly Meeting*  
+> Next on 27-Nov-2024 @ 1100  
+> [Google Meet Link](https://meet.google.com/iji-hpar-eed)
+
 
 ## Details
 - [Members](https://docs.google.com/spreadsheets/d/1Vfxe6mashH19zObWQ74mYwXr_ftUNzsOO5FUFaP8w0Q/edit?usp=sharing) – @socials, +streams, +skills
-- [WhatsApp Core Group]()
+- [WhatsApp Core Group](https://chat.whatsapp.com/Kp8pcWC9FlUJvQjon46lzn)
 
 
 ## Workstreams
@@ -20,7 +25,7 @@ Key Documents and Meeting Notes for the community. Please start here to get fami
 
 ## Meeting Notes
 
-- [2024-November-13](meeting/20241113.md) _*Upcoming_
+- [2024-November-13](meeting/20241113.md)
 - [2024-October-30](meeting/20241030.md) 
 - [2024-October-15](meeting/20241015.md)
 - [2024-October-05](meeting/20241005.md)
