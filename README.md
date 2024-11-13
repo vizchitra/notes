@@ -2,10 +2,10 @@
 
 Key Documents and Meeting Notes for the community. Please start here to get familiar.
 
-> [!IMPORTANT]  
 > *Bi-Weekly Meeting*  
 > Next on 27-Nov-2024 @ 1100  
-> [Google Meet Link](https://meet.google.com/iji-hpar-eed)
+> [Google Meet Link](https://meet.google.com/iji-hpar-eed)  
+> [Agenda Issue](https://github.com/vizchitra/notes/issues/5#issue-2655794117)
 
 
 ## Details
