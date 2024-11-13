@@ -8,7 +8,7 @@
 
 * Launch Milestone \#1 (Nov – Dec)  
   * Finalise Charter  
-    * About – Who we are / What we do |/Why do we exist / Who can participate  
+    * About – Who we are / What we do /Why do we exist / Who can participate  
     * Summary –  Mission / Vision / Members   
   * Define Community Guidelines  & Code of Conduct  
     * Ways of Working  
