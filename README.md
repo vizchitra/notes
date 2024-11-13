@@ -18,7 +18,7 @@ Key Documents and Meeting Notes for the community. Please start here to get fami
 ## Workstreams
 [Workstreams Overview & Plan](meta/workstreams.md) 
 
- A. [Admin & Meta](/admin&meta)
+ A. [Admin & Meta](admin&meta)
  B. Branding & Marketing
  C. Communication & Outreach
  D. Discourse & Editorial
