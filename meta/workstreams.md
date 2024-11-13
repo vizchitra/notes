@@ -8,16 +8,16 @@
 
 * Launch Milestone \#1 (Nov – Dec)  
   * Finalise Charter  
-    * About – Who we are | What we do | Why do we exist | Who can participate  
-    * Summary –  Mission | Vision | Members   
+    * About – Who we are / What we do |/Why do we exist / Who can participate  
+    * Summary –  Mission / Vision / Members   
   * Define Community Guidelines  & Code of Conduct  
     * Ways of Working  
     * License & Copyright  
-    * Code of Conduct | Moderation handling  
+    * Code of Conduct / Moderation handling  
     * Guidelines  on promotion, seeking funding etc.  
 * Conference Milestone \#2 (Jan–Apr)  
-  * Create legal structure | trademark  
-  * Set up ticketing | support (w/ hasgeek)  
+  * Create legal structure / trademark  
+  * Set up ticketing / support (w/ hasgeek)  
   * Draw budget for conference   
   * Set up vendor process   
   * Monitor finances
@@ -47,7 +47,7 @@
 * Launch Milestone \#1 (Nov – Dec)  
   * Organise social media & hasgeek accounts  
     * Set up the community account and profile page on hasgeek.com  
-    * Set up socials accounts: Add logo | Add  byline | Add initial members / subscribers  
+    * Set up socials accounts: Add logo / Add  byline / Add initial members / subscribers  
     * Hashtags to be used in the first 3-6 months  
   * Create launch promotion material & writeup  
     * Launch writeup for the community e.g. blog on the website  
@@ -105,4 +105,5 @@
 
 
 ## Reference
+ - [Simplified Workstream - Google Doc Version](https://docs.google.com/document/d/1puyOXvela5CPJVWwbSLKoluEIjxlhA2EPD2UG6cRkeA/edit?usp=sharing)
  - [WorkStream Big Version by Zainab](https://docs.google.com/document/d/1xmkKsOxMszsNY2I8hKmLDSRdzZHJ1k-0S5oCNk0syvg/edit?tab=t.0#heading=h.f7veoewxt60t)
