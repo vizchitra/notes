@@ -15,9 +15,20 @@ Key Documents and Meeting Notes for the community. Please start here to get fami
 - Workstream Documents
   - [Naming Shortlist](https://docs.google.com/spreadsheets/d/1NI3K1g5J5ORFfH0cxRL8bY5k5i3XLXM1gj4RvK3OiLk/edit?gid=820916346#gid=820916346)
 
+## Workstreams
+[Workstreams Overview & Plan](meta/workstreams.md) 
+
+ A. [Admin & Meta](/admin&meta)
+ B. Branding & Marketing
+ C. Communication & Outreach
+ D. Discourse & Editorial
+ E. Events & Conference
+ F. Sales & Partnership
+
 ## Meeting Notes
 
-- [2024-October-30](meeting/20241030.md) _*Upcoming_
+- [2024-November-13](meeting/20241113.md) _*Upcoming_
+- [2024-October-30](meeting/20241030.md) 
 - [2024-October-15](meeting/20241015.md)
 - [2024-October-05](meeting/20241005.md)
 - [2024-September-30](meeting/20240930.md)
