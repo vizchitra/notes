@@ -18,12 +18,12 @@ Key Documents and Meeting Notes for the community. Please start here to get fami
 ## Workstreams
 [Workstreams Overview & Plan](meta/workstreams.md) 
 
- A. [Admin & Meta](admin&meta)
- B. Branding & Marketing
- C. Communication & Outreach
- D. Discourse & Editorial
- E. Events & Conference
- F. Sales & Partnership
+1. [Admin & Meta](admin&meta/index.md) 
+2. Branding & Marketing
+3. Communication & Outreach
+4. Discourse & Editorial
+5. Events & Conference
+6. Sales & Partnership
 
 ## Meeting Notes
 
@@ -32,3 +32,7 @@ Key Documents and Meeting Notes for the community. Please start here to get fami
 - [2024-October-15](meeting/20241015.md)
 - [2024-October-05](meeting/20241005.md)
 - [2024-September-30](meeting/20240930.md)
+
+
+. 
+b. 
