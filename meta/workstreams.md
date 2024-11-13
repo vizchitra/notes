@@ -2,18 +2,18 @@
 
 ![](../assets/Workstreams.svg)
 
-## **Admin & Meta**
+## ***Admin & Meta***
 
 *To set the overall direction and coordinate the administration & structural activities for the community.*
 
 * Launch Milestone \#1 (Nov – Dec)  
   * Finalise Charter  
-    * About – Who we are / What we do /Why do we exist / Who can participate  
+    * About – Who we are / What we do / Why do we exist / Who can participate  
     * Summary –  Mission / Vision / Members   
   * Define Community Guidelines  & Code of Conduct  
     * Ways of Working  
     * License & Copyright  
-    * Code of Conduct / Moderation handling  
+    * Code of Conduct /  Moderation handling  
     * Guidelines  on promotion, seeking funding etc.  
 * Conference Milestone \#2 (Jan–Apr)  
   * Create legal structure / trademark  
@@ -22,7 +22,7 @@
   * Set up vendor process   
   * Monitor finances
 
-## **Branding & Marketing**
+## ***Branding & Marketing***
 
 *To create the brand voice and drive the overall marketing for the community.*
 
@@ -40,9 +40,9 @@
   * Identify ambassadors for marketing  
   * Coordinate merchandise design
 
-## **Communication & Outreach**
+## ***Communication & Outreach***
 
-*To communicate and drive the brand voice and drive the overall marketing for the community.*
+*To communicate the brand message and to conduct outreach & grow the community.*
 
 * Launch Milestone \#1 (Nov – Dec)  
   * Organise social media & hasgeek accounts  
@@ -56,12 +56,12 @@
   * Create promotions & outreach material for each channel  
   * Drive promotional activities for pre-events  
   * Promote community and speakers for the conference  
-  * Drive outreach activities \- blogs, event summary, posts  
+  * Drive outreach activities: blogs, event summary, posts  
   * Gather reviewers and potential community members
 
-## **Discourse & Editorial**
+## ***Discourse & Editorial***
 
-*To define the themes for the community discourse and drive the editorial process for the conference* 
+*To define the themes for the community discourse and drive the editorial process for the conference.* 
 
 * Launch Milestone \#1 (Nov – Dec)  
   * Refine & finalise concept note  
@@ -73,9 +73,9 @@
   * Prepare conference schedule  
   * Conduct speaker rehearsal
 
-## **Events & Coordination** 
+## ***Events & Coordination*** 
 
-*To coordinate the pre-events, conference and post-events  and to grow the participation in the community* 
+*To coordinate the pre-events, conference and post-events  and to grow the participation in the community.* 
 
 * Launch Milestone \#1 (Nov – Dec)  
   * Plan calendar for pre-events  
@@ -87,7 +87,9 @@
   * Coordinate volunteers and other resources  
   * Manage vendors and venue activities
 
-## **Sales & Partnerships**
+## ***Sales & Partnerships***
+
+*To drive the sales of tickets & membership and to build partnerships across industry & academia.*
 
 * Launch Milestone \#1 (Nov – Dec)  
   * Set partnership guidelines  
@@ -101,9 +103,9 @@
 * Post Conference (May onwards)  
 * Maintain and update the list of partners   
 * Engage and retain partnership  
-* Identify and execute collaboration opportunities with community events 
+* Identify and execute collaboration opportunities with community events   
 
+## ***Reference***
 
-## Reference
- - [Simplified Workstream - Google Doc Version](https://docs.google.com/document/d/1puyOXvela5CPJVWwbSLKoluEIjxlhA2EPD2UG6cRkeA/edit?usp=sharing)
- - [WorkStream Big Version by Zainab](https://docs.google.com/document/d/1xmkKsOxMszsNY2I8hKmLDSRdzZHJ1k-0S5oCNk0syvg/edit?tab=t.0#heading=h.f7veoewxt60t)
+* [Simplified Workstream \- Google Doc Version](https://docs.google.com/document/d/1puyOXvela5CPJVWwbSLKoluEIjxlhA2EPD2UG6cRkeA/edit?usp=sharing)  
+* [WorkStream Big Version by Zainab](https://docs.google.com/document/d/1xmkKsOxMszsNY2I8hKmLDSRdzZHJ1k-0S5oCNk0syvg/edit?tab=t.0#heading=h.f7veoewxt60t)

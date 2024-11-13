@@ -1,7 +1,7 @@
 
 # Admin & Meta
 
-*To set the overall direction and coordinate the administration & structural activities for the community.*
+_To set the overall direction and coordinate the administration & structural activities for the community._
 
-- [Charter](admin/charter.md)
+- [Charter](charter.md)
 - [Guidelines]
