@@ -1,5 +1,7 @@
 # VizChitra Community Notes
 
+[Github Issues](https://github.com/vizchitra/notes/issues) | [Github Repo](https://github.com/vizchitra/notes) | [vizchitra.com](https://vizchitra.com) 
+
 Key Documents and Meeting Notes for the community. Please start here to get familiar.
 
 > *Bi-Weekly Meeting*  
