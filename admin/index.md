@@ -3,6 +3,9 @@
 
 _To set the overall direction and coordinate the administration & structural activities for the community._
 
+_team_: amitkaps
+
+
 - [Charter](charter.md)
 - [Guidelines](guidelines.md)  
 

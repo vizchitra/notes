@@ -3,6 +3,8 @@
 
 _To communicate the brand message and to conduct outreach & grow the community._
 
+_team_: kavya, divya, ipsa, poojil, swathi, urmila
+
 
 ## Launch Action
 
