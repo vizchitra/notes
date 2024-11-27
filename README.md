@@ -5,7 +5,7 @@
 Key Documents and Meeting Notes for the community. Please start here to get familiar.
 
 > *Bi-Weekly Meeting*  
-> Next on 27-Nov-2024 @ 1100  
+> Next on 11-Dec-2024 @ 1100  
 > [Google Meet Link](https://meet.google.com/iji-hpar-eed)  
 
 
