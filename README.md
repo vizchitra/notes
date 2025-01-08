@@ -26,6 +26,8 @@ Key Documents and Meeting Notes for the community. Please start here to get fami
 
 ## Meeting Notes
 
+- [2025-January-08](meeting/20250108.md)
+- [2024-December-23](meeting/20241223.md)
 - [2024-December-11](meeting/20241211.md)
 - [2024-November-27](meeting/20241127.md)
 - [2024-November-13](meeting/20241113.md)
