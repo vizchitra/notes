@@ -1,6 +1,6 @@
 # VizChitra Community Notes
 
-[Github Issues](https://github.com/vizchitra/notes/issues) | [Github Repo](https://github.com/vizchitra/notes) | [vizchitra.com](https://vizchitra.com) 
+[Project Board](https://github.com/orgs/vizchitra/projects/1) | [Issues](https://github.com/vizchitra/notes/issues) | [Repo](https://github.com/vizchitra/notes) | [vizchitra.com](https://vizchitra.com) 
 
 Key Documents and Meeting Notes for the community. Please start here to get familiar.
 
@@ -26,6 +26,7 @@ Key Documents and Meeting Notes for the community. Please start here to get fami
 
 ## Meeting Notes
 
+- [2025-January-22](meeting/20250122.md)
 - [2025-January-08](meeting/20250108.md)
 - [2024-December-23](meeting/20241223.md)
 - [2024-December-11](meeting/20241211.md)
