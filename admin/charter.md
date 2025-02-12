@@ -1,8 +1,6 @@
 # VizChitra Charter
 
-_DRAFT & WORK IN PROGRESS_
-
-
+_WORKING DRAFT_
 
 ## Objective |=> Vision
 To build a strong community of inter-disciplinary individuals with a shared interest in the practice of data visualisation across India
