@@ -20,12 +20,13 @@ _team_: anandk, annapurani, apoorv, arpit, divya, kashvi, schubert, swathi
 | Documentation | Document key decisions, updates and documents for the editorial work and team to align their efforts. | XXX | YYY |
 
 ## To-dos
-- [ ] Set up work sub-streams
-- [ ] Document the current progress
-- [ ] ..
+- [ ] Work with Events team to plan the next TownHall - Arpit
+- [ ] Follow-up on existing partnership threads to plan with the editorial team - Divya
+- [ ] Document the current progress - ??
 
 ### Done
 - [x] Refine & finalise concept note
 - [x] Plan possible audiences for conference
 - [x] Define theme and tracks for the conference
 - [x] Launch the Hasgeek CFP page
+- [X] Set up work sub-streams
