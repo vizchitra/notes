@@ -2,7 +2,7 @@
 
 We follow a volunteer-led and flat membership structure for the community. Currently, there are two groups within the community - _Friends of VizChitra_ & _Core Members_:
 
-<img width="250" style="float:right; padding:10px" src="../assets/img/structure.svg">
+<img width="400" style="float:right; padding:10px" src="../assets/img/structure.svg">
 
 1. **Friends of VizChitra**: This is an open membership group where people interested in the community can participate, exchange ideas and get involved. This is the entry point for new members to the community.
 
