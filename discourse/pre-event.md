@@ -20,9 +20,9 @@
 
 ## 3. VizChitra Lightning Talks
 
-> A platform for innovative ideas in a concise format that might not be conference ready.
+> A platform for innovative ideas, highlighting new voices in a concise format.
 > 
 - 4-5 short-format presentations (10-15 minutes each)
-- Focus on emerging topics and cutting-edge innovations in visualisation
+- Focus on emerging topics and fresh voices in data visualisation
 - Picked from submissions, good ideas but not a conference fit
 - Networking opportunities with speakers and attendees
