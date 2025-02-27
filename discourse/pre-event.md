@@ -2,12 +2,17 @@
 
 ## CfP Event
 
-### Dates
-- **CfP Event**: Between 21st-23rd March, 2025
+### Details
+- **Dates**: Between 21st-23rd March, 2025
 - **Hosting**: Anand K, Surbhi, Swathi
 - **Activities**: Surbhi, Arpit
 
-### Ideas
+### Goals
+- Attract talk submissions
+- Inspire and encourage new ideas
+- Activities to lighten the conversation
+
+### Inital Ideas
 
 #### 1. How to Submit a Talk at VizChitra
 > A comprehensive guide for potential speakers to understand and navigate the submission process
