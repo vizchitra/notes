@@ -46,7 +46,7 @@
 **Selection criteria** for ideas relevant for pre-event:
 - Attract new audiences that are currently not in the community
 - Not discuss super in-depth topics that require nuance
-- Focus on options where demos, resources can be shared
+- Formats like demos, where resources can be shared on panel discussions
 
 **Options for pre-events**:
 - AI and Data Visualization: The Future of Automated Insights
