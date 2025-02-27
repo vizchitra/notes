@@ -8,7 +8,7 @@ _team_: anandk, apoorv, arpit, divya, rasagy, schubert, surabhi, swathi
 
 ## Important Links
 - [Hasgeek page](https://hasgeek.com/Vizchitra/2025)
-- [Editorial themes](editorial.md)
+- [Themes and Formats](themes.md)
 - [Concept note](https://docs.google.com/document/d/1WiGoeug9QzqTIL2qdVAjhLVU3fieeUVTZ3VB-h_q3Go/edit?usp=sharing) - _Request Access_
 
 ## Sub-streams
