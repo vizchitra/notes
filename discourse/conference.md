@@ -6,7 +6,7 @@
 
 1. Conference Schedule
 > - Create a draft schedule for the conference and workshop day (timinigs, slots available, etc.)
-> - The schedule should cover a balance of different themes, tracks and formats
+> - The schedule should cover a balance of different themes, tracks and formats (consider FoV requests)
 > - Keep in considereation the main conference room + BoF room + installations/performances
 
 2. Speaker Reachout
