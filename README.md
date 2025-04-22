@@ -5,7 +5,7 @@
 Key Documents and Meeting Notes for the community. Please start here to get familiar.
 
 > *Bi-Weekly Meeting*  
-> Next on 26-Mar-2025 @ 1100  
+> Next on 23-Apr-2025 @ 1100  
 > [Google Meet Link](https://meet.google.com/iji-hpar-eed)  
 
 
@@ -26,7 +26,9 @@ Key Documents and Meeting Notes for the community. Please start here to get fami
 
 ## Meeting Notes
 
-- [2025-March-26](meeting/20250326.md) _(next)_
+- [2025-April-23](meeting/20250326.md) _(next)_
+- [2025-April-09](meeting/20250326.md) 
+- [2025-March-26](meeting/20250326.md)
 - [2025-March-12](meeting/20250312.md)
 - [2025-February-26](meeting/20250226.md)
 - [2025-February-12](meeting/20250212.md)
