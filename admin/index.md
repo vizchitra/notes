@@ -3,7 +3,7 @@
 
 _To set the overall direction and coordinate the administration & structural activities for the community._
 
-_team_: amitkaps, gurman, zainab, anand
+_team_: amitkaps, gurman, ipsa, rasagy, zainab
 
 
 ## Key Documents
